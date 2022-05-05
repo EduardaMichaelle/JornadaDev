@@ -41,9 +41,9 @@ body {
 }
 
 .profile .profile-image {
-    width: 50%;
+    width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
+    border: 30px solid #00204A;
 }
 
 .name {
@@ -291,15 +291,3 @@ body {
         font-size: 18px;
     }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
